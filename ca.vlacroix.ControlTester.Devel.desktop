@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Utility
+Name=Control Tester Nightly
+Name[en]=Control Tester Nightly
+Comment=Test your game controllers
+Comment[en]=Test your game controllers
+Type=Application
+Exec=ctrltest
+Terminal=false
+Icon=ca.vlacroix.ControlTester.Devel
+StartupNotify=false
