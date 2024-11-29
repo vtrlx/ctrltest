@@ -6,6 +6,7 @@
 	"command": "ctrltest",
 	"finish-args": [
 		"--device=dri",
+		"--device=input",
 		"--share=ipc",
 		"--socket=fallback-x11",
 		"--socket=wayland"
